@@ -1,0 +1,22 @@
+{
+	"name": "flipbook",
+	"tree": {
+		"$className": "DataModel",
+
+		"ServerScriptService": {
+			"$className": "ServerScriptService",
+
+			"flipbook": {
+				"$className": "Folder",
+
+				"packages": {
+					"$path": "Packages"
+				},
+
+				"plugin": {
+					"$path": "src"
+				}
+			}
+		}
+	}
+}
