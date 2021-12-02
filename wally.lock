@@ -10,7 +10,7 @@ dependencies = []
 [[package]]
 name = "passhley/flipbook"
 version = "0.1.0"
-dependencies = [["RoactHooks", "kampfkarren/roact-hooks@0.3.0"], ["oact", "roblox/roact@1.4.2"], ["odux", "roblox/rodux@3.0.0"]]
+dependencies = [["Roact", "roblox/roact@1.4.2"], ["RoactHooks", "kampfkarren/roact-hooks@0.3.0"], ["Rodux", "roblox/rodux@3.0.0"]]
 
 [[package]]
 name = "roblox/roact"
