@@ -3,4 +3,4 @@
 </div>
 
 **flipbook** is a new UI previewing tool in development. Inspired by
-Storybook.js and [Hoarcekat by Kampfkarren](https://github.com/kampfkarren/hoarcekat).
+Storybook.js and [Hoarcekat](https://github.com/kampfkarren/hoarcekat) by Kampfkarren.
